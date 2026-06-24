@@ -84,6 +84,7 @@ EARTH‑I™ consists of four primary system layers:
  🔵 BLUE ATMOSPHERE ||  The Vision Layer       ||  Atmospheric OS™ Satellite Truth Engine
  🟣 PURPLE SOVEREIGN||  The Constitutional Core||  Core OS™ Natural Law & 100x100 Mandate
 ========================================================================================
+```
 
 ##  Core Principles
 
