@@ -73,7 +73,17 @@ EARTH‑I™ consists of four primary system layers:
 ```
 <img width="1200" height="25" alt="INDUSTRIAL OS" src="https://github.com/user-attachments/assets/408307ec-bf4c-4266-a6c1-d068acb180a4" />
 
+## System Alignment Matrix
 
+```text
+========================================================================================
+ 🔴 RED EARTH       ||  The Sensory Layer      ||  Arnhem Land Baseline & Drift Guard
+ 🟠 ORANGE TELEMETRY||  The Extraction Layer   ||  Industrial OS™ Compliance Telemetry
+ 🟡 GOLDEN SUN      ||  The Nourishment Layer  ||  Uncompromising Precision & Excellence
+ 🟢 GREEN BIOSPHERE ||  The Regeneration Core  ||  Biosphere OS™ Ecological Asset Stability
+ 🔵 BLUE ATMOSPHERE ||  The Vision Layer       ||  Atmospheric OS™ Satellite Truth Engine
+ 🟣 PURPLE SOVEREIGN||  The Constitutional Core||  Core OS™ Natural Law & 100x100 Mandate
+========================================================================================
 
 ##  Core Principles
 
