@@ -8,7 +8,6 @@
   <svg width="100%" height="80" viewBox="0 0 800 80" fill="none" xmlns="http://www.w3.org/2000/svg" style="background: #0d1117; border-radius: 6px; border: 1px solid #30363d;">
     <path d="M 0 40 Q 400 75 800 40" stroke="#00d2ff" stroke-width="1" opacity="0.15" stroke-dasharray="4 4" />
     <line x1="0" y1="40" x2="800" y2="40" stroke="#21262d" stroke-width="1"/>
-    
     <g>
       <circle cx="0" cy="0" r="4" fill="#00d2ff">
         <animateMotion dur="7s" repeatCount="indefinite" path="M -20 38 Q 400 73 820 38" />
@@ -19,7 +18,6 @@
         <animate attributeName="opacity" values="0.8;0;0.8" dur="1.8s" repeatCount="indefinite" />
       </circle>
     </g>
-    
     <text x="15" y="25" fill="#58a6ff" font-family="monospace" font-size="10" letter-spacing="1.5" opacity="0.8">CONSTELLATION OS // ORBITAL SWEEP ACTIVE</text>
     <text x="710" y="25" fill="#3fb950" font-family="monospace" font-size="10" opacity="0.8">[ 100×100 OK ]</text>
   </svg>
