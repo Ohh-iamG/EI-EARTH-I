@@ -1,16 +1,15 @@
-# EI-EARTH-I      <img width="79.4" height="112.3" alt="RAINBOW LOGO" src="https://github.com/user-attachments/assets/d8970b81-56fd-4de6-a326-2c3b49b43e1d" />
+
+#  EI-EARTH-I      <img width="59.2" height="90.5" alt="RAINBOW LOGO" src="https://github.com/user-attachments/assets/d8970b81-56fd-4de6-a326-2c3b49b43e1d" />
 <img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/10384608-6d8d-41e0-9303-96e3ad612ff6" />
 
 ### Sovereign Planetary Operating System
 
 **EARTH‑I™** is the master ecosystem that coordinates the sovereign technology stack for environmental governance, industrial compliance, atmospheric verification, and biophysical intelligence. It provides the foundational architecture for nations seeking to maintain control over their environmental truth infrastructure. EARTH‑I™ is built on Natural Law principles, sovereign data boundaries, and a strict zero-trace operational model.
 
-<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/10384608-6d8d-41e0-9303-96e3ad612ff6" />
-
 ## System Overview
 
 EARTH‑I™ consists of four primary operating system layers:
-
+<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/10384608-6d8d-41e0-9303-96e3ad612ff6" />
 **CONSTELLATION OS™** — The master coordination layer responsible for synchronising all operating systems, governing release cycles, and maintaining cross-repository alignment.
 **ATMOSPHERIC OS™** — The active atmospheric verification engine that tracks methane, carbon dioxide, and decadal drift using satellite-grade data pipelines.
 **BIOSPHERE OS™** — The biophysical intelligence layer that monitors soil biology, canopy health, hydrology, and ecological asset stability. *(Fully scaffolded and pending public release.)*
